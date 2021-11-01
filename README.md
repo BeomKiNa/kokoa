@@ -9,4 +9,4 @@ Cloning Kakao Talk with HTML and CSS
 
 ## Github Pages Link
 
-[Visit NOW!](https://beomki69.github.io/Kokoa/)
+[Visit NOW!](https://nabeomki.github.io/kokoa/)
